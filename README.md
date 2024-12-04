@@ -1,5 +1,5 @@
 # [EN] File Manager Application
-![Papirus-Team-Papirus-Apps-System-file-manager 512](https://github.com/user-attachments/assets/c6f06577-3eca-49ee-82a6-9979ba9927a5)
+![Papirus-Team-Papirus-Apps-System-file-manager 512](https://github.com/user-attachments/assets/69af5090-dfe0-4e3d-85d2-9aa00a5edeb8)
 
 
 
@@ -13,7 +13,8 @@ File Manager Application is a JavaFX-based file management tool designed to make
 * Cross-Platform Compatibility: Runs seamlessly on Windows, macOS, and Linux systems.
 * Executable Jar: The project supports building fat JAR files, making deployment and distribution straightforward.
 ## Screenshots
-![image](https://github.com/user-attachments/assets/91206faa-3188-4879-a3ef-01a7d2c984ba)
+![image](https://github.com/user-attachments/assets/1e06f85b-8c59-40a4-8bfc-f44e99317961)
+
 
 ## Prerequisites
 * Java 17 or higher: The application uses JavaFX 17 and requires at least Java 17.
@@ -57,7 +58,7 @@ The project is fully documented with JavaDoc:
 * HTML documentation is generated and available in the docs directory.
 
 # [RU] Файловый менеджер
-![Papirus-Team-Papirus-Apps-System-file-manager 512](https://github.com/user-attachments/assets/387ef809-f496-4df0-94d0-4cc91b044f26)
+![Papirus-Team-Papirus-Apps-System-file-manager 512](https://github.com/user-attachments/assets/69dc4763-67d0-4cef-9ac9-c1a90be9dd3b)
 
 
 
@@ -72,7 +73,8 @@ The project is fully documented with JavaDoc:
 * Кроссплатформенность: Приложение работает на Windows, macOS и Linux.
 * Исполняемый Jar: Проект поддерживает создание Fat JAR, упрощая развертывание и распространение.
 ## Скриншоты
-![image](https://github.com/user-attachments/assets/91206faa-3188-4879-a3ef-01a7d2c984ba)
+![image](https://github.com/user-attachments/assets/c9dddf04-9438-47d4-981f-29ef8dbcbe59)
+
 ## Требования
 * Java 17 или новее: Приложение использует JavaFX 17 и требует минимум Java 17.
 * Gradle: Для сборки и запуска приложения.
