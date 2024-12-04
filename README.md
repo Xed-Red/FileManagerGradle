@@ -23,19 +23,13 @@ File Manager Application is a JavaFX-based file management tool designed to make
 ### Requirements:
 * JDK 17 or newer
 * Gradle 8.0 or newer
-### Build:
-Run the following command to build the application:
-
-``` ./gradlew clean build ```
-
-This will:
-
-* Compile the source code.
-* Create a fat JAR with all dependencies included.
 ### Running the Application
 To run the application locally, execute:
 
-``` ./gradlew run ```
+ ``` ./gradlew run ```
+  
+or 
+ ``` java -jar \build\libs FileManagerGradle-1.0-SNAPSHOT.jar ```
 
 This will launch the application using the Main class.
 
@@ -82,21 +76,15 @@ The project is fully documented with JavaDoc:
 ### Требования:
 * JDK 17 или новее
 * Gradle 8.0 или новее
-### Сборка:
-Выполните следующую команду для сборки приложения:
-
-``` ./gradlew clean build ```
-
-Это выполнит:
-
-* Компиляцию исходного кода.
-* Создание Fat JAR с включенными зависимостями.
-* Запуск приложения
-### Для локального запуска выполните:
+### Запуск приложения
+Для локального запуска выполните:
 
 ``` ./gradlew run ```
+  
+или  
+``` java -jar \build\libs FileManagerGradle-1.0-SNAPSHOT.jar ```
 
-* Это запустит приложение, используя главный класс Main.
+Это запустит приложение, используя главный класс Main.
 
 ### Создание Fat (Shadow) JAR
 Для упаковки приложения со всеми зависимостями в один JAR файл выполните:
