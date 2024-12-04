@@ -29,6 +29,7 @@ To run the application locally, execute:
  ``` ./gradlew run ```
   
 or 
+
  ``` java -jar \build\libs FileManagerGradle-1.0-SNAPSHOT.jar ```
 
 This will launch the application using the Main class.
@@ -82,6 +83,7 @@ The project is fully documented with JavaDoc:
 ``` ./gradlew run ```
   
 или  
+
 ``` java -jar \build\libs FileManagerGradle-1.0-SNAPSHOT.jar ```
 
 Это запустит приложение, используя главный класс Main.
