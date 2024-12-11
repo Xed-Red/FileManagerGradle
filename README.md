@@ -30,7 +30,7 @@ To run the application locally, execute:
   
 or 
 
- ``` java -jar \build\libs FileManagerGradle-1.0-SNAPSHOT.jar ```
+ ``` java -jar build/libs/FileManagerGradle-1.0-SNAPSHOT.jar ```
  
 It will work if you created JAR earlier.
 
@@ -86,7 +86,7 @@ The project is fully documented with JavaDoc:
   
 или  
 
-``` java -jar \build\libs FileManagerGradle-1.0-SNAPSHOT.jar ```
+``` java -jar build/libs/FileManagerGradle-1.0-SNAPSHOT.jar ```
 
 Это сработает если вы создали JAR ранее.
 
